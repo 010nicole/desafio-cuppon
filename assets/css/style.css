@@ -1,0 +1,126 @@
+body {
+    font-family: "Roboto", sans-serif;
+   
+}
+
+.navbar {
+    background-color: #28A745;
+    display: flex;
+    flex-wrap: nowrap;
+ 
+}
+
+
+
+.navbar img {
+    width: 30%;
+}
+
+.navbar-toggler {
+    border-color: white;
+    border: 1.5px solid white;
+}
+
+.cupones   {
+
+margin-top: 30px;
+font-weight: 300;
+}
+.container {
+  
+    justify-content: space-around;
+}
+
+.card {
+    margin: 30px 0px;
+ padding: 0%;
+}
+
+.card p {
+    margin: 0px;
+}
+
+.card-link {
+    color: #707070;
+    text-decoration: none;
+    font-size: 1.2rem;
+    margin-right: 10px;
+}
+
+.card-link2 {
+    text-decoration: none;
+    color: #28A745;
+    font-size: 20pt;
+    font-weight: 500;
+}
+
+.card-body2 {
+    border-top: #707070 solid;
+    border-top-width: 0.01cm;
+    margin: 15px;
+    text-align: end;
+}
+
+.formu{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-around
+}
+.menu {
+    justify-content: space-around;
+    text-align: center;
+    background-color: #28A745;
+    padding: 20px 40px;
+}
+.form-control{
+    text-align: center;
+}
+
+.card-title{
+    color: #212529;
+    font-weight: 300;
+    font-size: 20pt;
+}
+.card-text{
+    font-weight: 300;
+    color: #707070;
+    font-size: 16px;
+}
+.card-text2{
+font-size: 13px;
+font-weight: 300;
+color: #707070;
+}
+.menu p{
+    font-weight: 500;
+    color: white;
+    font-size: 21px;
+}
+.form-control {
+    margin-bottom: 15px;
+    width: 300px;
+}
+.btn{
+
+    border-width: 1pt;
+    width: 120px;
+    height: 40px;
+    margin-top: 5px;
+
+}
+
+footer {
+margin: 10px;
+    text-align: center;
+}
+
+footer p {
+   padding: 5px 40px;
+    color: #707070;
+}
+
+footer img {
+    width: 30%;
+
+}
